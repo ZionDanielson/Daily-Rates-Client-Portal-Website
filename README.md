@@ -6,7 +6,7 @@ ZION J. DANIELSON | Software Developer Apprentice
 This portal is designed for users to login and check the Daily Index Rates for companies.
 The design prioritizes user-centricity, data visualization, and branding consistency.
 Key design elements include a user-friendly interface, visualizations for financial data, a thoughtfully chosen color palette, and clear typography.
-Our goal is to enhance user engagement, promote informed financial decisions, display exceptional design and list financial data.**
+Our goal is to enhance user engagement, promote informed financial decisions, display exceptional design and list financial data with API.**
 
 ## Breakdown: What does my process look like?
 
