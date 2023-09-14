@@ -1,6 +1,6 @@
 # **Daily Rates Client Portal Website (Morgan Stanley)**
 
-ZION J. DANIELSON | Software Developer Apprentice
+ZION J. DANIELSON | Developer Apprentice
 
 **This GitHub repository is dedicated to the design of a Morgan Stanley Wealth Management Client Portal.
 This portal is designed for users to login and check the Daily Index Rates for companies.
