@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+.hero{
+    background: #949494;
+    min-height: 100vh;
+    width: 100%;
+    color: #fff;
+    position: relative;
+}
+
+/* Navigation Bar */
+nav{
+    display: flex;
+    align-items: center;
+    padding: 20px 8%;
+}
+
+/* Morgan Stanley Logo */
+nav .mslogo{
+    width: 250px;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+/* Nav Bar Spacing */
+nav ul{
+    flex: 1;
+    text-align: right;
+}
+
+/* Login & Account Tabs */
+nav ul li {
+    
+}
