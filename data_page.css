@@ -32,6 +32,8 @@ nav .mslogo{
 nav ul{
     flex: 1;
     text-align: right;
+    justify-content: center;
+    padding-top: 10px;
 }
 
 /* Login & Account Tabs lining up*/
@@ -52,10 +54,10 @@ nav ul li a{
   .headerTwo{
     display: flex;
     align-items: center;
+    justify-content: stretch;
     padding: 20px 8%;
     background: rgb(255, 255, 255);
     width: 100%;
-    position: relative ;
   }
 
   /* Daily Rates Logo */
@@ -66,12 +68,15 @@ nav ul li a{
 
 /*Section with the Data Table*/
 .flex-container{
+    display: flex;
 background: #3EB661;
     min-height: 60vh;
     height: auto;
     width: 100%;
     color: #fff;
     position: relative;
+    align-items: center;
+    flex-direction: column;
 }
 
 /* Funds Transfer Pricing Text */
@@ -81,7 +86,17 @@ background: #3EB661;
 }
 
 /* Data Table styling */
-
+.btn{
+    padding: 10px 60px;
+    background: #fff;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+    font-size: 22px;
+    font-weight: 500;
+    border-radius: 30px;
+    align-items: center;
+}
 
 
 /* The footer */

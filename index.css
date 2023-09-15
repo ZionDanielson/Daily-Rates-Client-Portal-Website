@@ -32,6 +32,8 @@ nav .mslogo{
 nav ul{
     flex: 1;
     text-align: right;
+    justify-content: center;
+    padding-top: 10px;
 }
 
 /* Login & Account Tabs lining up*/
