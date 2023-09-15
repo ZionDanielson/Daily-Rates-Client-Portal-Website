@@ -18,6 +18,7 @@ nav{
     display: flex;
     align-items: center;
     padding: 20px 8%;
+    background: #393838;
 }
 
 /* Morgan Stanley Logo */
@@ -33,7 +34,44 @@ nav ul{
     text-align: right;
 }
 
-/* Login & Account Tabs */
-nav ul li {
+/* Login & Account Tabs lining up*/
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 0 20px;
     
 }
+
+/* Styling for login & account tabs */
+nav ul li a{
+    text-decoration: none;
+    color: rgb(139, 139, 139);
+}
+
+/* Body Section - Includes: Daily Rates Logo & Login Form */
+.flex-container {
+    display: flex;
+    align-items: stretch;
+    background-color: #f1f1f1;
+    min-height: 80vh;
+  }
+  
+  .flex-container > div {
+    margin: 0px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+
+
+/* The footer */
+ .footer{
+    display: flex;
+    align-items: center;
+    padding: 20px 8%;
+    min-height: 10vh;
+    background: #393838;
+ }
+
+
+
