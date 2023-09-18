@@ -65,6 +65,12 @@ nav ul li a{
     font-size: 30px;
   }
 
+  /* Daily Rates Logo */
+div .drlogo{
+    width: 50%;
+    margin-top: 60px;    
+}
+
 
 /* The footer */
  .footer{
