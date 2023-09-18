@@ -72,6 +72,21 @@ div .drlogo{
 }
 
 
+
+/* Login Section */
+div .loginSection{
+
+}
+
+/* Login Text*/
+div .login-text-section{
+    color:#393838;
+    margin-top: 20px;
+
+
+}
+
+
 /* The footer */
  .footer{
     display: flex;
